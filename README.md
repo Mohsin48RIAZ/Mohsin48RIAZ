@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohsin48RIAZ
 - 👀 I’m interested in Webdevelopment 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning MERN FULL STACK
 - 💞️ I’m looking to collaborate with Webdevelopers 
 - 📫 How to reach me mohsinriaz153@gmail.com +923047429446
 <!---
